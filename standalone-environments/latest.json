@@ -1,0 +1,14 @@
+{
+  "mac-mps": {
+    "tag": "v1",
+    "comfyui_version": "0.21.1",
+    "comfyui_commit": "7ba2443c8aae1c605a8247b9a076a914296a89d2",
+    "build": 1779422684,
+    "date": "2026-05-22T04:04:44.568Z",
+    "file": "custom-comfy-mac-mps-v1.tar.zst",
+    "size": 549576294,
+    "url": "https://github.com/ffantasy94/comfy-custom-standalone/releases/download/v1/custom-comfy-mac-mps-v1.tar.zst",
+    "python_version": "3.13.13",
+    "torch_version": "2.12.0"
+  }
+}
