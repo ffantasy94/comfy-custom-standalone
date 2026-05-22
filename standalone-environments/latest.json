@@ -1,13 +1,13 @@
 {
   "mac-mps": {
-    "tag": "v2",
+    "tag": "v3",
     "comfyui_version": "0.22.0",
     "comfyui_commit": "7ba2443c8aae1c605a8247b9a076a914296a89d2",
-    "build": 1779431665,
-    "date": "2026-05-22T06:34:25.508Z",
-    "file": "custom-comfy-mac-mps-v2.tar.gz",
-    "size": 574556074,
-    "url": "https://github.com/ffantasy94/comfy-custom-standalone/releases/download/v2/custom-comfy-mac-mps-v2.tar.gz",
+    "build": 1779432396,
+    "date": "2026-05-22T06:46:36.813Z",
+    "file": "custom-comfy-mac-mps-v3.tar.gz",
+    "size": 582389336,
+    "url": "https://github.com/ffantasy94/comfy-custom-standalone/releases/download/v3/custom-comfy-mac-mps-v3.tar.gz",
     "python_version": "3.13.13",
     "torch_version": "2.12.0"
   }
